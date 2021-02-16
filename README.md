@@ -48,6 +48,8 @@ Now that you've forked this repository let's `clone` it to your computer so you 
 
 Open up GitHub Desktop and in the search bar that says `Filter your repositories` enter the name of this repository and then click the `Clone` button on the bottom to choose where you'd like to copy this repository.
 
+![clone a repository](https://i.imgur.com/oWfYGvL.jpg)
+
 ### 3) Adding your information
 
 We are now ready to make changes to your repository! For this section you can use any editor you'd like but I will be using [Atom](https://atom.io/). 
@@ -58,11 +60,21 @@ Open up the repository folder in your editor and create a new new file in the ap
 
 Copy the contents of `template.md` into your new file and fill it out with your information.
 
+![Content](https://i.imgur.com/LLRWUAU.png)
+
 ### 4) Committing and Pushing your changes
 
-Once you've saved your changes, open up GitHub Desktop. Notice on the left hand of the application you now have one new changed file. In the field that says `Summary (required)` add a brief description of your change, then press the button `Commit to master`.
+Once you've saved your changes, open up GitHub Desktop. Notice on the left hand of the application you now have one new changed file.
 
-Committing your changes records them locally within your repository. To have your changes reflected on GitHub press the `Push origin` button on the top of the application.
+Committing your changes records them locally within your repository.
+
+Press the button `Commit to master`.
+
+![Committing](https://i.imgur.com/RMxamAE.jpg)
+
+To have your changes reflected on GitHub press the `Push origin` button on the top of the application.
+
+![Pushing](https://i.imgur.com/irWoBJX.jpg)
 
 You can now head over to your fork's GitHub page and see your changes!
 
@@ -70,8 +82,16 @@ You can now head over to your fork's GitHub page and see your changes!
 
 You have now added content to your fork and are ready to have your new file incorporated into the original repository! 
 
-If everything has gone according to plan you should see a button that says `Create Pull Request` at the top of your repository on GitHub. Click the button to open up the Pull Request page.
+If everything has gone according to plan you should see a button that says `Create Pull Request` at the top of your repository on GitHub. Click the button to open up the Compare Pull Request page.
 
-On the Pull Request page you'll see a space to leave a detailed comment about the code you are trying to merge. For more complex contributions it can be useful to use this space to describe what changes you've made and refer to any [issues](https://guides.github.com/features/issues/) your change fixes. For this you can just leave it blank.
+![Compare PR](https://i.imgur.com/GGKhh2f.jpg)
 
-Press `Create Pull Request` and you're done! Once your request has been reviewed it will be merged into the original repository!
+On this page you'll see the changes you've made to the repository and how they compare to what is currently in the original repository. Press `Create pull request`.
+
+![Create PR](https://i.imgur.com/6ct4jId.jpg)
+
+Finally you you'll see a space to leave a detailed comment about the code you are trying to merge. For more complex contributions it can be useful to use this space to describe what changes you've made and refer to any [issues](https://guides.github.com/features/issues/) your change fixes. For this you can just leave it blank. 
+
+Press `Create pull request` one last time to open a pull request! Once your request has been reviewed it will be merged into the original repository!
+
+![Open PR](https://i.imgur.com/PeWrYXI.jpg)
