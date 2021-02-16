@@ -1,3 +1,9 @@
 # Your Name
 
-Write a short blurb about yourself! Feel free to include things like your location, Discord username, projects you've worked on, etc.
+## City and Country
+
+## Background
+
+## Why you're excited about Acala, Karura, and DeFi
+
+## Fun facts and details about yourself
