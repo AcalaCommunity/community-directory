@@ -60,7 +60,7 @@ Open up the repository folder in your editor and create a new new file in the ap
 
 Copy the contents of `template.md` into your new file and fill it out with your information.
 
-![Content](https://i.imgur.com/LLRWUAU.png)
+![Content](https://i.imgur.com/upcGZeH.png)
 
 ### 4) Committing and Pushing your changes
 
