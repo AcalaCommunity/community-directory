@@ -24,7 +24,7 @@ The first thing you need to do is have a GitHub account. You can create one by c
 
 ### 2) Download GitHub Desktop
 
-Next we're going to download and install [GitHub Desktop](https://desktop.github.com/). GitHub desktop is an application developed by GitHub that allows you to do common git commands without having to go through the terminal. We're going to be using it for the rest of this tutorial.
+Next we're going to download and install [GitHub Desktop](https://desktop.github.com/). GitHub desktop is an application developed by GitHub that allows you to do common git commands without having to go through the terminal.
 
 ## Making a contribution
 
@@ -34,7 +34,7 @@ The first thing we need to do is create a `fork` of this repository.
 
 _What is a fork? A fork is a copy of some repository that is still linked to the original repository. This lets you safely make any changes they want without worrying about affeceting the original repository._
 
-In the top right corner of the page you should see the following:
+In the top right corner of this web page you should see the following:
 
 ![Fork button](https://i.imgur.com/juvSC3e.jpg)
 
