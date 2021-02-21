@@ -15,4 +15,4 @@ I feel like Acala is one of the big game changer projects thats coming out.
 ## Fun facts and details about yourself
 I enjoy the outdoors
 
-You can find me as JBMugu on Discord
+You can find me as JBMugu on Discord.
