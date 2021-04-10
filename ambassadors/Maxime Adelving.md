@@ -20,4 +20,4 @@ So it's make me excited to see how all this will became !
 
 ## Fun facts and details about yourself
 No Risk - No Fun is coming from my first developers job where it was the mojo when we was doing action directly in production server !
-In 2013 when I have hear of Bitcoin inside my university, I was thinking it was already too late for enter inside. This is not a financial advice.
+In 2013 when I have hear of Bitcoin inside my university, I was thinking it was already too late to enter inside. This is not a financial advice.
