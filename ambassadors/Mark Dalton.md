@@ -1,5 +1,4 @@
-# Your Name
-Mark Dalton
+# Mark Dalton
 
 ## City and Country
 Buffalo, MN  USA by way of Minnesota, New Mexico, New Jersey
