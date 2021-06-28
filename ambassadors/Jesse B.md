@@ -1,5 +1,4 @@
-# Name
-Jesse B
+# Jesse B
 
 ## City and Country
 Los Angeles
