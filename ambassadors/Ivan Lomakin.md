@@ -1,5 +1,4 @@
-# Name
-Ivan Lomakin
+# Ivan Lomakin
 
 ## City and Country
 Taganrog (Silicon Valley in Russia)
