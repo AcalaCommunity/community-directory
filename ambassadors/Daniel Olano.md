@@ -1,5 +1,4 @@
-# Your Name
-Daniel Olano
+# Daniel Olano
 
 ## City and Country
 From Colombia, based in Berlin, Germany.
