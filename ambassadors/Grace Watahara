@@ -1,5 +1,4 @@
-# Your Name
-Grace Watahara
+# Grace Watahara
 
 ## City and Country
 Osaka Japan
