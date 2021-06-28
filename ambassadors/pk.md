@@ -37,8 +37,11 @@
 ## Fun facts and details about yourself
 
 ⛰️ in my younger days, ascended 3 of 7 mountain peaks  
+
 🚴 transitioned to long distance cycling  
+
 🧘 currently focussed in tuning my body w/ yoga and mind w/ vipassana  
+
 🎮 experimenting with how to build games for my son
 
 ![play-date-sample-games](../images/play-date-sample-games.png)
