@@ -1,5 +1,4 @@
-# Your Name
-Maxime Adelving.
+# Maxime Adelving
 In discord you will find me as "No Risk - No Fun#4746".
 
 ## City and Country
