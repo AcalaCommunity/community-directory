@@ -1,6 +1,4 @@
-# Your Name
-
-Tom Smallwood
+# Tom Smallwood
 
 ## City and Country
 
