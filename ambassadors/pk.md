@@ -1,6 +1,4 @@
-# Your Name
-
-🖖 pk
+# 🖖 pk
 
 ## City and Country
 
