@@ -1,5 +1,4 @@
-# Your Name
-Jhoni Vieceli
+# Jhoni Vieceli
 
 ## City and Country
 Porto - Portugal

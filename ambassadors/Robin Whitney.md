@@ -1,5 +1,4 @@
-# Name
-Robin Whitney
+# Robin Whitney
 
 ## City and Country
 Los Angeles by way of Chicago, USA
