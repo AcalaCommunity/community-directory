@@ -56,7 +56,7 @@ We are now ready to make changes to your repository! For this section you can us
 
 Open up the repository folder in your editor and create a new new file in the appropriate folder (ambassadors in `ambassadors`, community members in `community members`). Name the file `<Your Name>.md`.
 
-**Note**: The file format `md` is for Markdown files. You'll see this format a lot within our repositories and documentation. Markdown makes it easy to add very basic stying to your documents. Read more about Markdown syntax [here](https://guides.github.com/features/mastering-markdown/).
+**Note**: The file format `md` is for Markdown files. You'll see this format a lot within our repositories and documentation. Markdown makes it easy to add very basic styling to your documents. Read more about Markdown syntax [here](https://guides.github.com/features/mastering-markdown/).
 
 Copy the contents of `template.md` into your new file and fill it out with your information.
 
