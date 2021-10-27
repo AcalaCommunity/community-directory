@@ -14,4 +14,4 @@ I believe that DeFi can remove the barriers that block people from the tradition
 
 ## Fun facts and details about yourself
 
-I love live music and concerts, as well as going out into nature with tents. I go to bed early, but I sleep a little, I strive for self-improvemenеt!
+I love live music and concerts, as well as going out into nature with tents. I go to bed early, but I sleep a little, I strive for self-improvemenеt.
